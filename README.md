@@ -1,2 +1,2 @@
 # C
-Student information and Chabot  Program using C  Language
+ Chabot  Program using C  Language
